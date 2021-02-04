@@ -1,0 +1,36 @@
+{
+  "general": {
+    "modules": "Moduli",
+    "module": "Modulo"
+  },
+
+  "settings": {
+    "itemNames": {
+      "moduleStore": "Negozio Moduli",
+      "goosemodModules": "Moduli GooseMod"
+    }
+  },
+
+  "moduleStore": {
+    "authoring": "da",
+
+    "import": "Importa",
+    "importing": "Importazione...",
+    "remove": "Rimuovi",
+    "removing": "Rimozione...",
+
+    "updateIndex": "Aggiorna indice",
+
+    "selectors": {
+      "notImported": "Non Importati",
+      "imported": "Importati",
+
+      "tags": "Categorie",
+      "authors": "Autori"
+    }
+  },
+  
+  "meta": {
+    "translator": "xirreal"
+  }
+}
