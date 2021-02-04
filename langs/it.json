@@ -28,5 +28,9 @@
       "tags": "Categorie",
       "authors": "Autori"
     }
+  },
+  
+  "meta": {
+    "translator": "xirreal"
   }
 }
