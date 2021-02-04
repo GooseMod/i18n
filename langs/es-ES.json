@@ -1,0 +1,36 @@
+{
+  "general": {
+    "modules": "Modulos",
+    "module": "Modulo"
+  },
+
+  "settings": {
+    "itemNames": {
+      "moduleStore": "Tienda de Modulos",
+      "goosemodModules": "Modulos de GooseMod"
+    }
+  },
+
+  "moduleStore": {
+    "authoring": "por",
+
+    "import": "Importar",
+    "importing": "Importando...",
+    "remove": "Desinstalar",
+    "removing": "Desinstalando...",
+
+    "updateIndex": "Actualizar Tienda",
+
+    "selectors": {
+      "notImported": "No Importados",
+      "imported": "Importados",
+
+      "tags": "Tags",
+      "authors": "Autores"
+    }
+  },
+
+  "meta": {
+    "translator": "Komodo"
+  }
+}
