@@ -1,0 +1,32 @@
+{
+  "general": {
+    "modules": "Modules",
+    "module": "Module"
+  },
+
+  "settings": {
+    "itemNames": {
+      "moduleStore": "Module Store",
+      "goosemodModules": "GooseMod Modules"
+    }
+  },
+
+  "moduleStore": {
+    "authoring": "by",
+
+    "import": "Import",
+    "importing": "Importing...",
+    "remove": "Remove",
+    "removing": "Removing...",
+
+    "updateIndex": "Update Index",
+
+    "selectors": {
+      "notImported": "Not Imported",
+      "imported": "Imported",
+
+      "tags": "Tags",
+      "authors": "Authors"
+    }
+  }
+}
