@@ -1,0 +1,35 @@
+{
+  "general": {
+    "modules": "Modules",
+    "module": "Module"
+  },
+
+  "settings": {
+    "itemNames": {
+      "moduleStore": "Module Winkel",
+      "goosemodModules": "GooseMod Modules"
+    }
+  },
+
+  "moduleStore": {
+    "authoring": "door",
+
+    "import": "Importeer",
+    "importing": "Importeren...",
+    "remove": "Verwijder",
+    "removing": "Aan het verwijderen...",
+
+    "updateIndex": "Update Index",
+
+    "selectors": {
+      "notImported": "Niet Geimporteerd",
+      "imported": "Geimporteerd",
+
+      "tags": "Labels",
+      "authors": "Auteurs"
+    }
+  },
+	"meta": {
+		"translator": "Hax4dayz"
+	}
+}
