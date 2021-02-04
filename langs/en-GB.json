@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "translator": "Ducko"
+  },
+
   "general": {
     "modules": "Modules",
     "module": "Module"
