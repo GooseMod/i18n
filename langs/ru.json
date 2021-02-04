@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "translator": "EnderXH"
+  },
+
+  "general": {
+    "modules": "Модули",
+    "module": "Модуль"
+  },
+
+  "settings": {
+    "itemNames": {
+      "moduleStore": "Магазин модулей",
+      "goosemodModules": "Модули GooseMod"
+    }
+  },
+
+  "moduleStore": {
+    "authoring": "от",
+
+    "import": "Импорт",
+    "importing": "Импоритуем...",
+    "remove": "Удалить",
+    "removing": "Удаляем...",
+
+    "updateIndex": "Обновить индекс",
+
+    "selectors": {
+      "notImported": "Не импортировано",
+      "imported": "Импортировано",
+
+      "tags": "Теги",
+      "authors": "Авторы"
+    }
+  }
+}
