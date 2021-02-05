@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "translator": "TechnoJo4"
+  },
+
+  "general": {
+    "modules": "Modules",
+    "module": "Module"
+  },
+
+  "settings": {
+    "itemNames": {
+      "moduleStore": "Module Store",
+      "goosemodModules": "Modules GooseMod"
+    }
+  },
+
+  "moduleStore": {
+    "authoring": "par",
+
+    "import": "Installer",
+    "importing": "Installation...",
+    "remove": "Désinstaller",
+    "removing": "Désinstallation...",
+
+    "updateIndex": "Actualiser",
+
+    "selectors": {
+      "notImported": "Pas Installé",
+      "imported": "Installé",
+
+      "tags": "Catégories",
+      "authors": "Auteurs"
+    }
+  }
+}
