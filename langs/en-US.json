@@ -16,12 +16,17 @@
   },
 
   "moduleStore": {
-    "authoring": "by",
+    "card": {
+      "title": "{name} by {author}",
 
-    "import": "Import",
-    "importing": "Importing...",
-    "remove": "Remove",
-    "removing": "Removing...",
+      "button": {
+        "import": "Import",
+        "importing": "Importing...",
+
+        "remove": "Remove",
+        "removing": "Removing..."
+      }
+    },
 
     "updateIndex": "Update Index",
 
