@@ -10,7 +10,7 @@
 
   "settings": {
     "itemNames": {
-      "moduleStore": "Modul Store",
+      "moduleStore": "Modulstore",
       "goosemodModules": "GooseMod Module"
     }
   },
@@ -21,17 +21,17 @@
 
       "button": {
         "import": "Importieren",
-        "importing": "Importiert...",
+        "importing": "Importieren...",
 
         "remove": "Entfernen",
-        "removing": "Entfernt..."
+        "removing": "Entfernen..."
       }
     },
 
-    "updateIndex": "Index Aktualisieren",
+    "updateIndex": "Index aktualisieren",
 
     "selectors": {
-      "notImported": "Nicht Importiert",
+      "notImported": "Nicht importiert",
       "imported": "Importiert",
 
       "tags": "Tags",
