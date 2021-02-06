@@ -4,13 +4,13 @@
   },
 
   "general": {
-    "modules": "模件",
-    "module": "模件"
+    "modules": "模组",
+    "module": "模组"
   },
 
   "settings": {
     "itemNames": {
-      "moduleStore": "模件Store",
+      "moduleStore": "模组Store",
       "goosemodModules": "GooseMod的模组"
     }
   },
