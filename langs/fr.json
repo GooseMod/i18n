@@ -16,12 +16,17 @@
   },
 
   "moduleStore": {
-    "authoring": "par",
+    "card": {
+      "title": "{name} par {author}",
 
-    "import": "Installer",
-    "importing": "Installation...",
-    "remove": "Désinstaller",
-    "removing": "Désinstallation...",
+      "button": {
+        "import": "Installer",
+        "importing": "Installation...",
+
+        "remove": "Désinstaller",
+        "removing": "Désinstallation..."
+      }
+    },
 
     "updateIndex": "Actualiser",
 

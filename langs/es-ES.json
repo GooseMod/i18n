@@ -12,12 +12,17 @@
   },
 
   "moduleStore": {
-    "authoring": "por",
+    "card": {
+      "title": "{name} por {author}",
 
-    "import": "Importar",
-    "importing": "Importando...",
-    "remove": "Desinstalar",
-    "removing": "Desinstalando...",
+      "button": {
+        "import": "Importar",
+        "importing": "Importando...",
+
+        "remove": "Desinstalar",
+        "removing": "Desinstalando..."
+      }
+    },
 
     "updateIndex": "Actualizar Tienda",
 

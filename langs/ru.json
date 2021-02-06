@@ -16,12 +16,17 @@
   },
 
   "moduleStore": {
-    "authoring": "от",
+    "card": {
+      "title": "{name} от {author}",
 
-    "import": "Импорт",
-    "importing": "Импортируем...",
-    "remove": "Удалить",
-    "removing": "Удаляем...",
+      "button": {
+        "import": "Импорт",
+        "importing": "Импортируем...",
+
+        "remove": "Удалить",
+        "removing": "Удаляем..."
+      }
+    },
 
     "updateIndex": "Обновить индекс",
 

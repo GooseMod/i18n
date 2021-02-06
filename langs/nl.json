@@ -12,12 +12,17 @@
   },
 
   "moduleStore": {
-    "authoring": "door",
+    "card": {
+      "title": "{name} door {author}",
 
-    "import": "Importeer",
-    "importing": "Importeren...",
-    "remove": "Verwijder",
-    "removing": "Aan het verwijderen...",
+      "button": {
+        "import": "Importeer",
+        "importing": "Importeren...",
+
+        "remove": "Verwijder",
+        "removing": "Aan het verwijderen..."
+      }
+    },
 
     "updateIndex": "Update Index",
 

@@ -12,12 +12,17 @@
   },
 
   "moduleStore": {
-    "authoring": "da",
+    "card": {
+      "title": "{name} da {author}",
 
-    "import": "Importa",
-    "importing": "Importazione...",
-    "remove": "Rimuovi",
-    "removing": "Rimozione...",
+      "button": {
+        "import": "Importa",
+        "importing": "Importazione...",
+
+        "remove": "Rimuovi",
+        "removing": "Rimozione..."
+      }
+    },
 
     "updateIndex": "Aggiorna indice",
 
