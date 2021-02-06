@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "translator": "Fjorge"
+  },
+
+  "general": {
+    "modules": "模件",
+    "module": "模件"
+  },
+
+  "settings": {
+    "itemNames": {
+      "moduleStore": "模件Store",
+      "goosemodModules": "GooseMod的模组"
+    }
+  },
+
+  "moduleStore": {
+    "card": {
+      "title": "{name} by {author}",
+
+      "button": {
+        "import": "Import",
+        "importing": "Importing...",
+
+        "remove": "删除",
+        "removing": "Removing..."
+      }
+    },
+
+    "updateIndex": "刷新",
+
+    "selectors": {
+      "notImported": "Not Imported",
+      "imported": "Imported",
+
+      "tags": "分类",
+      "authors": "Authors"
+    }
+  }
+}
