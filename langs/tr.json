@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "translator": "sanana the skenana"
+  },
+
+  "general": {
+    "modules": "Modüller",
+    "module": "Modül"
+  },
+
+  "settings": {
+    "itemNames": {
+      "moduleStore": "Modül Mağazası",
+      "goosemodModules": "GooseMod Modülleri"
+    }
+  },
+
+  "moduleStore": {
+    "card": {
+      "title": "{name}, {author}",
+
+      "button": {
+        "import": "Ekle",
+        "importing": "Ekleniyor...",
+
+        "remove": "Kaldır",
+        "removing": "Kaldırılıyor..."
+      }
+    },
+
+    "updateIndex": "Önbelleği Yenile",
+
+    "selectors": {
+      "notImported": "Eklenmemiş",
+      "imported": "Eklenmiş",
+
+      "tags": "Etiketler",
+      "authors": "Yazarlar"
+    }
+  }
+}
