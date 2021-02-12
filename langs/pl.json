@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "translator": "Dziurwa"
+  },
+
+  "general": {
+    "modules": "Moduły",
+    "module": "Moduł"
+  },
+
+  "settings": {
+    "itemNames": {
+      "moduleStore": "Sklep Modułów",
+      "goosemodModules": "Moduły GooseMod"
+    }
+  },
+
+  "moduleStore": {
+    "card": {
+      "title": "{name} przez {author}",
+
+      "button": {
+        "import": "Import",
+        "importing": "Importowanie...",
+
+        "remove": "Usuń",
+        "removing": "Usuwanie..."
+      }
+    },
+
+    "updateIndex": "Zaktualizuj indeks",
+
+    "selectors": {
+      "notImported": "Nie Zaimportowane",
+      "imported": "Zaimportowane",
+
+      "tags": "Tagi",
+      "authors": "Autorzy"
+    }
+  }
+}
