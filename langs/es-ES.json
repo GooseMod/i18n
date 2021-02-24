@@ -1,13 +1,13 @@
 {
   "general": {
-    "modules": "Modulos",
-    "module": "Modulo"
+    "modules": "Módulos",
+    "module": "Módulo"
   },
 
   "settings": {
     "itemNames": {
-      "moduleStore": "Tienda de Modulos",
-      "goosemodModules": "Modulos de GooseMod"
+      "moduleStore": "Tienda de Módulos",
+      "goosemodModules": "Módulos de GooseMod"
     }
   },
 
@@ -24,7 +24,10 @@
       }
     },
 
-    "updateIndex": "Actualizar Tienda",
+    "repos": {
+      "repos": "Repositorios",
+      "addRepo": "Agregar Repositorio"
+    },
 
     "selectors": {
       "notImported": "No Importados",
