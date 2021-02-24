@@ -24,7 +24,10 @@
       }
     },
 
-    "updateIndex": "Actualizar Tienda",
+    "repos": {
+      "repos": "Repositorios",
+      "addRepo": "Agregar Repositorio"
+    },
 
     "selectors": {
       "notImported": "No Importados",
