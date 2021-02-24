@@ -28,7 +28,10 @@
       }
     },
 
-    "updateIndex": "Zaktualizuj indeks",
+    "repos": {
+      "repos": "Repozytoria",
+      "addRepo": "Dodaj Repozytorium"
+    },
 
     "selectors": {
       "notImported": "Nie Zaimportowane",
