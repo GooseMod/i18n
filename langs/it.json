@@ -24,7 +24,10 @@
       }
     },
 
-    "updateIndex": "Aggiorna indice",
+    "repos": {
+      "repos": "Repos",
+      "addRepo": "Aggiungi Repo"
+    },
 
     "selectors": {
       "notImported": "Non Importati",
