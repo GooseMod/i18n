@@ -13,7 +13,7 @@
 
   "moduleStore": {
     "card": {
-      "title": "{name} da {author}",
+      "title": "{name} di {author}",
 
       "button": {
         "import": "Importa",
@@ -24,7 +24,10 @@
       }
     },
 
-    "updateIndex": "Aggiorna indice",
+    "repos": {
+      "repos": "Repos",
+      "addRepo": "Aggiungi Repo"
+    },
 
     "selectors": {
       "notImported": "Non Importati",
