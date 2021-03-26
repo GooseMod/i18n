@@ -6,7 +6,9 @@
 
   "settings": {
     "itemNames": {
-      "moduleStore": "Tienda de Módulos",
+      "plugins": "Plugins",
+      "themes": "Temas",
+
       "goosemodModules": "Módulos de GooseMod"
     }
   },
