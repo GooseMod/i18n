@@ -10,7 +10,9 @@
 
   "settings": {
     "itemNames": {
-      "moduleStore": "Module Store",
+      "plugins": "Plugins",
+      "themes": "Themes",
+
       "goosemodModules": "GooseMod Modules"
     }
   },
