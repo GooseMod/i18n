@@ -8,10 +8,12 @@
     "module": "Moduł"
   },
 
-  "settings": {
+ "settings": {
     "itemNames": {
-      "moduleStore": "Sklep Modułów",
-      "goosemodModules": "Moduły GooseMod"
+      "plugins": "Pluginy",
+      "themes": "Motywy",
+
+      "goosemodModules": "Moduły Goosemod"
     }
   },
 
@@ -20,7 +22,7 @@
       "title": "{name} przez {author}",
 
       "button": {
-        "import": "Import",
+        "import": "Importuj",
         "importing": "Importowanie...",
 
         "remove": "Usuń",
