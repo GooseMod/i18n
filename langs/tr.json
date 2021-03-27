@@ -10,7 +10,8 @@
 
   "settings": {
     "itemNames": {
-      "moduleStore": "Modül Mağazası",
+      "plugins": "Eklentiler",
+      "themes": "Temalar",
       "goosemodModules": "GooseMod Modülleri"
     }
   },
