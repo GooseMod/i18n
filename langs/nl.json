@@ -1,4 +1,9 @@
 {
+
+  "meta": {
+    "translator": "Hax4dayz, mateocoltura"
+  },
+
   "general": {
     "modules": "Modules",
     "module": "Module"
@@ -6,7 +11,9 @@
 
   "settings": {
     "itemNames": {
-      "moduleStore": "Module Winkel",
+      "plugins": "Plugins",
+      "themes": "Thema's",
+
       "goosemodModules": "GooseMod Modules"
     }
   },
@@ -17,24 +24,24 @@
 
       "button": {
         "import": "Importeer",
-        "importing": "Importeren...",
+        "importing": "Aan het importeren...",
 
         "remove": "Verwijder",
         "removing": "Aan het verwijderen..."
       }
     },
 
-    "updateIndex": "Update Index",
+    "repos": {
+      "repos": "Bronnen",
+      "addRepo": "Voeg een bron toe"
+    },
 
     "selectors": {
-      "notImported": "Niet Geimporteerd",
-      "imported": "Geimporteerd",
+      "notImported": "Niet geïmporteerd",
+      "imported": "Geïmporteerd",
 
       "tags": "Labels",
       "authors": "Auteurs"
     }
-  },
-	"meta": {
-		"translator": "Hax4dayz"
-	}
+  }
 }
