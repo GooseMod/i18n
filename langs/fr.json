@@ -1,6 +1,6 @@
 {
   "meta": {
-    "translator": "TechnoJo4"
+    "translator": "TechnoJo4, mateocoltura"
   },
 
   "general": {
@@ -10,7 +10,9 @@
 
   "settings": {
     "itemNames": {
-      "moduleStore": "Module Store",
+      "plugins": "Plugins",
+      "themes": "Thèmes",
+
       "goosemodModules": "Modules GooseMod"
     }
   },
@@ -20,19 +22,22 @@
       "title": "{name} par {author}",
 
       "button": {
-        "import": "Installer",
-        "importing": "Installation...",
+        "import": "Importer",
+        "importing": "En train d'importer...",
 
         "remove": "Désinstaller",
-        "removing": "Désinstallation..."
+        "removing": "En train de désinstaller..."
       }
     },
 
-    "updateIndex": "Actualiser",
+    "repos": {
+      "repos": "Dépôts",
+      "addRepo": "Ajouter un Dépôt"
+    },
 
     "selectors": {
-      "notImported": "Pas Installé",
-      "imported": "Installé",
+      "notImported": "Pas Importé",
+      "imported": "Importé",
 
       "tags": "Catégories",
       "authors": "Auteurs"
