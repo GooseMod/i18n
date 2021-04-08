@@ -7,7 +7,7 @@ Discord (seemingly) uses ISO 639-1 for language codes (and sometimes ISO 3166-1 
 
  - German (`de`) by C4Phoenix and SmilingPeace
  - Italian (`it`) by xirreal
- - Dutch (`nl`) by Hax4dayz
+ - Dutch (`nl`) by Hax4dayz and mateocoltura
  - Russian (`ru`) by EnderXH
  - Spanish (`es`) by Komodo
  - French (`fr`) by TechnoJo4
