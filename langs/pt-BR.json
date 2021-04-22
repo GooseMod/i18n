@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "translator": "Marmota"
+  },
+
+  "general": {
+    "modules": "Módulos",
+    "module": "Módulo"
+  },
+
+  "settings": {
+    "itemNames": {
+      "plugins": "Plugins",
+      "themes": "Temas",
+
+      "goosemodModules": "Módulos do GooseMod"
+    }
+  },
+
+  "moduleStore": {
+    "card": {
+      "title": "{name} por {author}",
+
+      "button": {
+        "import": "Importar",
+        "importing": "Importando...",
+
+        "remove": "Remover",
+        "removing": "Removendo..."
+      }
+    },
+
+    "repos": {
+      "repos": "Repositórios",
+      "addRepo": "Adicionar Repositório"
+    },
+
+    "selectors": {
+      "notImported": "Não Importado",
+      "imported": "Importado",
+
+      "tags": "Tags",
+      "authors": "Autores"
+    }
+  }
+}
