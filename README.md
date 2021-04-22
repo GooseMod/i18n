@@ -13,6 +13,7 @@ Discord (seemingly) uses ISO 639-1 for language codes (and sometimes ISO 3166-1 
  - French (`fr`) by TechnoJo4 and mateocoltura
  - Turkish (`tr`) by sanana the skenana
  - Polish (`pl`) by Dziurwa
+ - Brazilian Portuguese (`pt-BR`) by jaimeadf (Marmota)
 
 ## Partial Translations
 
