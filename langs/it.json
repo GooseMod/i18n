@@ -9,7 +9,7 @@
 
   "settings": {
     "itemNames": {
-      "plugins": "Plugins",
+      "plugins": "Plugin",
       "themes": "Temi",
       "goosemodModules": "Moduli GooseMod"
     }
