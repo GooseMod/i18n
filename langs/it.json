@@ -1,8 +1,8 @@
 {
-  "meta":
-    "translator": "xirreal, kz-n"
-},
-{
+  {
+    "meta":
+      "translator": "xirreal, kz-n"
+  },
   "general": {
     "modules": "Moduli",
     "module": "Modulo"
