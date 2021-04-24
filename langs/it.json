@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "translator": "xirreal, kz-n"
+  },
   "general": {
     "modules": "Moduli",
     "module": "Modulo"
@@ -6,7 +9,8 @@
 
   "settings": {
     "itemNames": {
-      "moduleStore": "Negozio Moduli",
+      "plugins": "Plugins",
+      "themes": "Temi",
       "goosemodModules": "Moduli GooseMod"
     }
   },
@@ -36,9 +40,5 @@
       "tags": "Categorie",
       "authors": "Autori"
     }
-  },
-  
-  "meta": {
-    "translator": "xirreal"
   }
 }
