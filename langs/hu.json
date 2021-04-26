@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "translator": "PandaDriver"
+  },
+
+  "general": {
+    "modules": "Modulok",
+    "module": "Modul"
+  },
+
+  "settings": {
+    "itemNames": {
+      "plugins": "Bővítmények",
+      "themes": "Témák",
+
+      "goosemodModules": "GooseMod Modulok"
+    }
+  },
+
+  "moduleStore": {
+    "card": {
+      "title": "{name}, {author} által",
+
+      "button": {
+        "import": "Import",
+        "importing": "Importálás...",
+
+        "remove": "Eltávolít",
+        "removing": "Eltávolítás..."
+      }
+    },
+
+    "repos": {
+      "repos": "Tárolók",
+      "addRepo": "Tároló Hozzáadása"
+    },
+
+    "selectors": {
+      "notImported": "Nincs Importálva",
+      "imported": "Importálva",
+
+      "tags": "Címkék",
+      "authors": "Készítők"
+    }
+  }
+}
