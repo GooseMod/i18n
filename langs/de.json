@@ -10,7 +10,9 @@
 
   "settings": {
     "itemNames": {
-      "moduleStore": "Modulstore",
+      "plugins": "Plugins",
+      "themes": "Themes",
+
       "goosemodModules": "GooseMod Module"
     }
   },
@@ -28,7 +30,10 @@
       }
     },
 
-    "updateIndex": "Index aktualisieren",
+    "repos": {
+      "repos": "Repos",
+      "addRepo": "Add Repo"
+    },
 
     "selectors": {
       "notImported": "Nicht importiert",
