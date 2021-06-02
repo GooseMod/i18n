@@ -10,7 +10,8 @@
 
   "settings": {
     "itemNames": {
-      "moduleStore": "模组Store",
+      "plugins": "Plugins",
+      "themes": "Themes",
       "goosemodModules": "GooseMod的模组"
     }
   },
@@ -27,8 +28,11 @@
         "removing": "Removing..."
       }
     },
-
-    "updateIndex": "刷新",
+    
+    "repos": {
+      "repos": "Repos",
+      "addRepo": "Add Repo"
+    },
 
     "selectors": {
       "notImported": "Not Imported",
