@@ -1,6 +1,6 @@
 {
   "meta": {
-    "translator": "C4Phoenix, SmilingPeace"
+    "translator": "C4Phoenix, SmilingPeace, Pukima"
   },
 
   "general": {
@@ -32,7 +32,7 @@
 
     "repos": {
       "repos": "Repos",
-      "addRepo": "Add Repo"
+      "addRepo": "Repo hinzufügen"
     },
 
     "selectors": {
