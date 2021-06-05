@@ -18,4 +18,5 @@ Discord (seemingly) uses ISO 639-1 for language codes (and sometimes ISO 3166-1 
 
 ## Partial Translations
 
-  - Simplified Chinese (`zh-CN`) by Fjorge
+  - Simplified Chinese (`zh-CN`) by Fjorge and maikirakiwi
+  - Traditional Chinese (`zh-TW`) by maikirakiwi

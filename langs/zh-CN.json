@@ -1,18 +1,18 @@
 {
   "meta": {
-    "translator": "Fjorge"
+    "translator": "Fjorge, maikirakiwi"
   },
 
   "general": {
-    "modules": "模组",
+    "modules": "个模组", 
     "module": "模组"
   },
 
   "settings": {
     "itemNames": {
-      "plugins": "Plugins",
-      "themes": "Themes",
-      "goosemodModules": "GooseMod的模组"
+      "plugins": "插件",
+      "themes": "主题",
+      "goosemodModules": "GooseMod模组"
     }
   },
 
@@ -21,25 +21,25 @@
       "title": "{name} by {author}",
 
       "button": {
-        "import": "Import",
-        "importing": "Importing...",
+        "import": "安装",
+        "importing": "正在安装...",
 
-        "remove": "删除",
-        "removing": "Removing..."
+        "remove": "卸载",
+        "removing": "正在卸载..."
       }
     },
     
     "repos": {
-      "repos": "Repos",
-      "addRepo": "Add Repo"
+      "repos": "源",
+      "addRepo": "添加源"
     },
 
     "selectors": {
-      "notImported": "Not Imported",
-      "imported": "Imported",
+      "notImported": "未安装",
+      "imported": "已安装",
 
       "tags": "分类",
-      "authors": "Authors"
+      "authors": "作者"
     }
   }
 }
