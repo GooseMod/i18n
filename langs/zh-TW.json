@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "translator": "maikirakiwi"
+  },
+
+  "general": {
+    "modules": "個模組",
+    "module": "模組"
+  },
+
+  "settings": {
+    "itemNames": {
+      "plugins": "插件",
+      "themes": "主題",
+
+      "goosemodModules": "GooseMod模組"
+    }
+  },
+
+  "moduleStore": {
+    "card": {
+      "title": "{name} by {author}",
+
+      "button": {
+        "import": "安裝",
+        "importing": "正在安裝...",
+
+        "remove": "卸載",
+        "removing": "Removing..."
+      }
+    },
+
+    "repos": {
+      "repos": "源",
+      "addRepo": "添加源"
+    },
+
+    "selectors": {
+      "notImported": "未安裝",
+      "imported": "已安裝",
+
+      "tags": "分類",
+      "authors": "作者"
+    }
+  }
+}
